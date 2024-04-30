@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
--- [ ] User Registration and Authentication
+- [x] User Registration and Authentication
 - [ ] Booking Management
 - [ ] Service/Venue Listings
 - [ ] Payment Processing
